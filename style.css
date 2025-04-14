@@ -1,12 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
 :root{
-    --backGround: #1B1B1B;
-    --texto: #fff;
-    --roxo: #A238FF;
-    --verde: #1ED760;
-    --fonte-titulo: "Bevan", serif;
-    --fonte-texto: "Montserrat", sans-serif;
+    --backGround: #1F051E;
 }
 
 body{
@@ -17,6 +10,8 @@ header{
     display: flex;
     justify-content: space-evenly;
     padding: 15px;
+    font-family: var(--font_principal);
+    font-weight: 300;
 }
 
 #logo{
@@ -28,6 +23,13 @@ header{
     margin-left: 350px;
     gap: 50px;
 }
-.dificil--title{
+
+section{
+    font-family: var(--font_principal);
+}
+
+p{
+    font-weight: 500;
+}.dificil--title{
     font-family: var(--fonte-titulo);
 }
