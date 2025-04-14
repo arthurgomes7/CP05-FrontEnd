@@ -1,0 +1,22 @@
+:root{
+    --backGround: #1F051E;
+}
+
+body{
+    background-color: var(--backGround);
+}
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+#logo{
+}
+
+#container_options{
+    display: flex;
+    margin-left: 350px;
+    gap: 50px;
+}
