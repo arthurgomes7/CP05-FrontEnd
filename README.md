@@ -4,7 +4,7 @@ Projeto de uma landing page de apresentação de um aplicativo de música, demon
 Link do Github Pages: https://arthurgomes7.github.io/CP05-FrontEnd/
 
 Alunos do grupo:
-Arthur Gomes - RM 560771
-Luiz Gustavo - RM 560110
-Matheus Siroma - RM 560248
-Pedro Estevam - RM 560642
+<p>Arthur Gomes - RM 560771</p>
+<p>Luiz Gustavo - RM 560110<p>
+<p>Matheus Siroma - RM 560248</p>
+<p>Pedro Estevam - RM 560642</p>
